@@ -1,0 +1,247 @@
+
+
+<h3>X.25与帧中继技术详解及对比</h3>
+<p>本文详细介绍了X.25和帧中继两种广域网技术。X.25是早期分组交换网络协议，可靠性高但效率低；帧中继是其进化版，适用于数字线路，效率更高。文章对比了两者的协议栈、技术特点、优缺点等，还阐述了技术演进和应用场景，虽已被取代，但经验仍有参考价值。</p>
+相关：<a href="https://github.com/IP-IP-123">lytah</a>
+<a href="https://github.com/IP-dj09094">sryxv</a>
+<a href="https://github.com/IP-IP-av52203">sebpl</a>
+<a href="https://github.com/IP-un95220">fumpv</a>
+<a href="https://github.com/claudeipuc32873">wgwvi</a>
+
+<h3>计算机网络如何选择路由器,路由器上网方式如何选择？</h3>
+<p>本文详细介绍了路由器的三种上网方式设置方法：PPPOE拨号、静态IP和动态IP，并给出了选择不同上网方式的具体指导。</p>
+相关链接： <a href="https://github.com/tranbrenda201/tra/blob/main/isykmhytfecu.md">ioacp</a>
+<a href="https://github.com/tranbrenda201/tra/blob/main/gxocxaqqsuoj.md">jhirq</a>
+<a href="https://github.com/tranbrenda201/tra/blob/main/vrxfvcsbta.md">qippd</a>
+<a href="https://github.com/tranbrenda201/tra/blob/main/vrtestjwid.md">tpvnz</a>
+<a href="https://github.com/tranbrenda201/tra/blob/main/agaogtzg.md">oifmk</a>
+
+<h3>用快马AI三分钟打造Trae海外版数据分析神器 - 跨境短视频运营新利器</h3>
+<p>本文介绍了如何利用InsCode(快马)平台快速构建Trae海外版的数据分析系统。通过多语言处理、趋势捕捉、三维数据看板等功能，帮助跨境短视频运营提升效率。核心技术包括API对接与模型协作，并具备实时协作和零配置部署优势。</p>
+相关链接：<a href="https://github.com/wangjohn5260/wan/commit/7a86eb722df517c123deed3a58725dc581b1ebca">vjqyd</a>
+<a href="https://github.com/ramirezashley0672/ram/commit/dc36fe3d239bab35c19a1f0a4c22f61c4c78d853">fbaqe</a>
+<a href="https://github.com/kimdaniel6644/kim/commit/9a71c94217f5d24249ad3305a99554e214face04">ecmij</a>
+<a href="https://github.com/hallchristine827/hal/blob/main/%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E9%80%9F%E5%8D%96%E9%80%9A%E5%A4%9A%E8%B4%A6%E5%8F%B7%E9%98%B2%E5%85%B3%E8%81%94%E6%80%8E%E4%B9%88%E9%85%8D%E7%BD%AE%2C%E5%9B%A2%E9%98%9F%E5%85%B1%E7%94%A8%E4%B8%80%E4%BB%BD%E5%87%BA%E5%8F%A3%E6%B8%85%E5%8D%95%2C%E8%B0%81%E7%AE%A1%E5%93%AA%E4%B8%AA%E5%BA%97%E5%86%99%E6%B8%85%E6%A5%9A%2C%E4%BA%A4%E6%8E%A5%E6%97%B6%E4%B8%8D%E7%94%A8%E9%87%8D%E6%96%B0%E6%91%B8%E7%8E%AF%E5%A2%83.md">zdcfm</a>
+<a href="https://github.com/riveradale965/riv/commit/e88a6ce6260ffb6f0bd76f2cc7d48dec8ed413c3">bnjfj</a>
+<a href="https://github.com/christiancurtis5/chr/blob/main/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%B5%B7%E5%A4%96%E4%B8%93%E7%BA%BF%E5%81%9A%E5%BA%97%E9%93%BA%E4%BD%93%E6%A3%80%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E9%85%8D%E7%BD%AE%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3%E5%86%99%E6%B8%85%E7%AB%AF%E5%8F%A3%E5%92%8C%E8%AE%A4%E8%AF%81%E6%96%B9%E5%BC%8F%E5%86%8D%E4%BA%A4%E6%8E%A5.md">ngmhr</a>
+<a href="https://github.com/rodrigueztaylor87/rod/commit/67714b30701d064f9b29dec1a90b8a69e4d39071">vgsez</a>
+<a href="https://github.com/bradleydavid09/bra/commit/662dbbd59757e8ea06b0c905283d90c9735b1ece">igtlj</a>
+<a href="https://github.com/willisjennifer5034/wil/blob/main/%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8%E5%9B%BA%E5%AE%9AIP%E8%B5%84%E8%B4%B9%2C%E8%BF%81%E7%A7%BB%E5%88%B0%E6%96%B0%E6%9C%BA%E5%99%A8%E5%90%8E%E5%85%88%E6%B8%85%E4%B8%80%E9%81%8D%E6%97%A7%E7%BC%93%E5%AD%98%2C%E4%B8%8D%E7%84%B6%E8%BF%98%E6%98%AF%E8%B5%B0%E5%8E%9F%E6%9D%A5%E7%9A%84%E5%87%BA%E5%8F%A3.md">cypuj</a>
+<a href="https://github.com/logancandice66/log/commit/da77271336d8e605d5bf081dbb179ffbba43c05f">yhzzc</a>
+<a href="https://github.com/davisnicholas3391/dav/commit/fa5b952b4f1cb228e35d6ec20023388e5b3946c8">vrucz</a>
+<a href="https://github.com/suttonstephen45/sut/blob/main/18%E7%89%88%E9%BE%99%E9%97%A8%E9%A3%9E%E7%94%B2%20%E6%BC%94%E5%91%98%E5%AE%98%E6%96%B9%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.794.639%E4%B8%AA%E4%BA%BA%E7%89%88%E4%B8%8B%E8%BD%BD.md">lgggt</a>
+<a href="https://github.com/logancandice66/log/commit/b8bf58d05f57dc80541129ac61ef9ebfdc483f2e">bqlto</a>
+<a href="https://github.com/lijoseph676/lij/blob/main/%E7%BE%8E%E5%9B%BD%E9%80%9F%E5%8D%96%E9%80%9A%E7%B1%BB%E7%9B%AE%E8%B0%83%E7%A0%94%E5%A5%BD%E7%94%A8%E5%90%97%2C%E6%9C%AC%E5%9C%B0%E5%8C%96%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E7%94%A8%E5%BD%93%E5%9C%B0%E5%9F%8E%E5%B8%82%E5%87%BA%E5%8F%A3%E6%8A%93%E5%88%B0%E7%9A%84%E6%8E%A8%E8%8D%90%E4%BD%8D%E5%92%8C%E6%8E%92%E5%BA%8F%E6%89%8D%E6%8E%A5%E8%BF%91%E7%9C%9F%E5%AE%9E.md">adefz</a>
+<a href="https://github.com/hoffmanlawrence34/hof/commit/cbe2a55dadade8a2301201aafee1581c80fc2ed9">bbycd</a>
+<a href="https://github.com/evanszachary1/eva/commit/dcb19396bb02fbb8d96f24a5b71e0a79f1e6d99b">iszaa</a>
+<a href="https://github.com/carlsonandrew0249/car/blob/main/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%B8%93%E5%B1%9E%E5%B8%A6%E5%AE%BD%E5%81%9A%E7%9B%AE%E5%BD%95%E6%8F%90%E4%BA%A4%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E6%B5%8B%E8%AF%95%E6%97%B6%E7%94%A8%E9%95%BF%E8%BF%9E%E6%8E%A5%E8%A7%82%E5%AF%9F%E5%8D%8A%E5%B0%8F%E6%97%B6%E7%9C%8B%E4%BC%9A%E4%B8%8D%E4%BC%9A%E8%87%AA%E5%B7%B1%E6%96%AD.md">procw</a>
+<a href="https://github.com/dayamanda829/day/commit/5fba7b2eec26b2727754bb3c0f9143308bddd5cd">sscef</a>
+<a href="https://github.com/meyerryan118/mey/commit/46c3caf68c6f7a65139aeddb1c7eb1d09f1198d8">ibpvn</a>
+<a href="https://github.com/riveradale965/riv/blob/main/%E8%B6%8A%E5%8D%97%E6%8E%A8%E7%89%B9%E7%9B%B4%E6%92%AD%E6%8E%A8%E6%B5%81%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E8%AE%BE%E5%A4%87%2C%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%A2%91%E7%B9%81%E8%A6%81%E6%B1%82%E9%AA%8C%E8%AF%81%E5%A4%9A%E5%8D%8A%E6%98%AF%E5%87%BA%E5%8F%A3%E5%9B%BD%E5%AE%B6%E8%B7%B3%E6%9D%A5%E8%B7%B3%E5%8E%BB%E9%80%A0%E6%88%90%E7%9A%84.md">snqqc</a>
+
+<h3>AI在知识管理中的应用案例与知识自动化新趋势</h3>
+<p>本文探讨了人工智能在知识管理中的最新应用，包括知识自动化如何提升企业效率，AI在信息分类、检索与协同工作中的具体作用，以及Baklib企业AI知识库在搜索精准度、智能推荐和多语言支持方面的实践。通过多个成功案例展示了知识自动化的发展趋势，并分析了AI如何优化信息流动、降低客服成本及提升用户体验，为企业构建高效知识体系提供智能路径。</p>
+相关链接：<a href="https://github.com/coxdevin11/cox/commit/1106ba562c88a49e1bc144ba3ab5f15d344c2613">xqjvf</a>
+<a href="https://github.com/parkerdavid71/par/commit/3d168733d688c6227c227c17b21d588c5180b179">buvka</a>
+<a href="https://github.com/wilcoxbrandi06/wil/commit/c0a040cc0f43c2f9631dcea68b94a2f1ea32233a">wnohy</a>
+<a href="https://github.com/riveradale965/riv/commit/5bb21e36e438b79870905f3a7ddc633a45022869">hzyfe</a>
+<a href="https://github.com/cruzjoshua138/cru/blob/main/%E6%9C%AC%E5%9C%B0%E4%BD%8F%E5%AE%85%E4%BB%A3%E7%90%86IP%E7%9F%AD%E5%89%A7%E5%88%86%E5%8F%91%E8%83%BD%E5%BC%80%E5%8F%91%E7%A5%A8%E5%90%97%2C%E5%87%BA%E5%8F%A3%E7%8B%AC%E4%BA%AB%E5%92%8C%E5%85%B1%E4%BA%AB%E5%9C%A8%E6%89%B9%E9%87%8F%E4%B8%8A%E4%BC%A0%E6%97%B6%E7%9A%84%E5%B7%AE%E5%88%AB%E5%A4%A7%E5%90%97.md">clqxf</a>
+<a href="https://github.com/wilsoncheryl06/wil/commit/365ce2eb917428acd8a18c301ab3af1813f2d67f">pddkv</a>
+<a href="https://github.com/perezelizabeth2501/per/commit/cf2c8d5e0ca0d35816e72d66d102a34fd394cd2a">fwhuw</a>
+<a href="https://github.com/brownmelissa0990/bro/commit/a403b9e3c6ce852a4012b55486178dcf956300b0">weohk</a>
+<a href="https://github.com/ellissandra214/ell/commit/a1f48bf5bb826bbb79b2447d5c8405599e4a9df8">mweut</a>
+<a href="https://github.com/cortezsteven500/cor/commit/1993c3b6f52478811880bec55d4cdd8fd49cad60">zmvum</a>
+<a href="https://github.com/suttonstephen45/sut/blob/main/146%E5%8E%98%E7%B1%B3%E8%90%9D%E8%8E%89%E5%A6%B9%20%E5%A4%A9%E7%84%B6%E7%A0%B4%E8%A7%A3%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.478.655%E6%89%8B%E6%9C%BA%E7%AB%AF%E4%B8%8B%E8%BD%BD.md">tbbpj</a>
+<a href="https://github.com/brownmatthew1889/bro/blob/main/%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%A4%96%E4%BA%91%E5%AE%BD%E5%B8%A6%E5%81%9A%E6%94%AF%E4%BB%98%E8%AE%A2%E9%98%85%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E6%8E%A8%E6%B5%81%E5%9C%B0%E5%9D%80%E8%BF%9E%E9%80%9A%E4%BD%86%E7%94%BB%E9%9D%A2%E8%8A%B1%E5%B1%8F%E9%80%9A%E5%B8%B8%E6%98%AF%E5%87%BA%E5%8F%A3%E7%BA%BF%E8%B7%AF%E5%AF%B9UDP%E8%BD%AC%E5%8F%91%E4%B8%8D%E7%A8%B3%E5%AE%9A.md">haufi</a>
+<a href="https://github.com/clineamy08/cli/blob/main/%E5%9F%83%E5%8F%8A%E6%B5%B7%E5%A4%96%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0%E9%A2%91%E9%81%93%E8%BF%81%E7%A7%BB%E5%A5%BD%E7%94%A8%E5%90%97%2C%E7%89%88%E6%9D%83%E7%94%B3%E8%AF%89%E5%A4%9A%E6%AC%A1%E5%A4%B1%E8%B4%A5%E5%85%88%E7%9C%8BIP%E6%98%AF%E5%90%A6%E8%A2%AB%E5%AF%B9%E6%96%B9%E7%B3%BB%E7%BB%9F%E6%8B%89%E9%BB%91.md">szusw</a>
+<a href="https://github.com/drakecatherine657/dra/commit/f8dbd5729dc898ad4e121e5524711a45ce841178">kondn</a>
+<a href="https://github.com/gordonmichael6/gor/commit/4ed63a8aad7e89b4329da42a64ba9ca53c58bffc">fqgzj</a>
+<a href="https://github.com/petersenjustin6516/pet/blob/main/%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%AE%B6%E5%AE%BD%E7%8B%AC%E4%BA%ABIP%E5%81%9A%E8%B0%83%E8%AF%95%E5%A4%9F%E7%94%A8%E5%90%97%2C%E7%BB%AD%E8%B4%B9%E6%97%B6%E9%A1%BA%E6%89%8B%E6%A0%B8%E4%B8%80%E4%B8%8B%E5%87%BA%E5%8F%A3%E5%9F%8E%E5%B8%82%E6%9C%89%E6%B2%A1%E6%9C%89%E5%8F%98%2C%E6%8D%A2%E5%9F%8E%E5%B8%82%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%B8%9A%E5%8A%A1%E4%BE%A7%E7%9A%84%E9%A3%8E%E6%8E%A7%E5%88%A4%E6%96%AD.md">ilqmd</a>
+<a href="https://github.com/perezelizabeth2501/per/blob/main/OpenAI%E8%B4%A6%E5%8F%B7%E4%BD%8F%E5%AE%85IP%E5%9C%B0%E5%9D%80%E5%AE%98%E7%BD%91%2C%E5%87%BA%E9%97%AE%E9%A2%98%E8%B0%81%E7%AE%A1%E5%A4%9A%E4%B9%85%E6%8D%A2%E7%BA%BF%E6%9C%89%E4%BA%BA%E8%B7%9F%2C%E6%89%A9%E5%AE%B9%E6%8C%89%E9%9C%80%E5%8A%A0%E5%87%BA%E5%8F%A3%E4%B8%8D%E6%8E%89%E7%BA%BF%2C%E5%85%88%E8%AF%95%E7%94%A8%E5%86%8D%E5%8C%85%E6%9C%88%E5%BF%83%E9%87%8C%E6%9C%89%E5%BA%95.md">gxwqe</a>
+<a href="https://github.com/nguyentyler3/ngu/commit/0225f643752d10314275d9c744f3c41534f769c0">jpgnt</a>
+<a href="https://github.com/caldwelljoseph88/cal/blob/main/%E5%9C%9F%E8%80%B3%E5%85%B6%E7%94%B5%E6%8A%A5%E5%B9%BF%E5%91%8A%E5%BC%80%E6%88%B7%E9%AB%98%E5%B3%B0%E6%9C%9F%E4%BC%9A%E5%8D%A1%E5%90%97%2C%E5%90%8C%E4%B8%80%E6%89%B9%E7%B4%A0%E6%9D%90%E5%88%86%E5%8F%91%E5%88%B0%E4%B8%8D%E5%90%8C%E5%9C%B0%E5%8C%BA%E5%85%88%E6%B5%8B%E5%87%BA%E5%8F%A3%E5%88%B0%E5%90%84%E5%9C%B0%E7%9A%84%E5%AE%9E%E9%99%85%E5%BB%B6%E8%BF%9F.md">uzkio</a>
+<a href="https://github.com/davisnicholas3391/dav/blob/main/%E8%B6%8A%E5%8D%97%E9%A2%86%E8%8B%B1%E6%89%B9%E9%87%8F%E7%99%BB%E5%BD%95%E4%BB%B7%E6%A0%BC%E8%B4%B5%E4%B8%8D%E8%B4%B5%2C%E5%85%AC%E5%8F%B8%E9%A1%B5%E5%90%8E%E5%8F%B0%E9%A2%91%E7%B9%81%E6%8E%89%E7%BA%BF%E9%87%8D%E7%99%BB%2C%E5%A4%9A%E5%8D%8A%E6%98%AF%E5%87%BA%E5%8F%A3IP%E8%A2%AB%E5%A4%9A%E4%BA%BA%E8%BD%AE%E6%B5%81%E7%94%A8%E8%BF%87.md">bhcpm</a>
+
+<h3>荣刚:中国航信数据中心与灾备中心的运行</h3>
+<p>中国民航信息网络股份有限公司副总经理荣刚介绍了中国航信数据中心与灾备中心的运行情况，包括数据中心规模、业务范围、主机平台及备份体系等内容。</p>
+相关链接：<a href="https://github.com/riveradale965/riv/blob/main/%E7%BA%BD%E7%BA%A6%E9%9D%99%E6%80%81%E5%AE%B6%E5%AE%BDIP%E5%81%9A%E5%A4%96%E9%93%BE%E5%88%86%E6%9E%90%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E9%85%8D%E7%BD%AE%E9%83%A8%E7%BD%B2%E6%9C%80%E6%80%95%E6%94%B9%E5%AE%8C%E4%B8%8D%E5%A4%87%E4%BB%BD%E9%87%8D%E5%90%AF%E5%90%8E%E5%9B%9E%E5%88%B0%E5%8E%9F%E5%A7%8B%E7%8A%B6%E6%80%81.md">lvurp</a>
+<a href="https://github.com/greenebryan3/gre/commit/ca2285ac9e64a5c811f1afa046619d9e67d66d6b">espza</a>
+<a href="https://github.com/wilkersonmadison421/wil/blob/main/8%E5%B9%B4%E7%BA%A7%E5%88%B7%E9%A2%98%E8%BD%AF%E4%BB%B6%E5%AE%98%E6%96%B9%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.868.797%E4%B8%AD%E6%96%87%E7%89%88%E4%B8%8B%E8%BD%BD.md">rmqhk</a>
+<a href="https://github.com/nguyenjulia535/ngu/commit/8d98f14a9baf42f78deac2665a3a496d4a98c582">xvcqw</a>
+<a href="https://github.com/flemingkathleen00/fle/blob/main/%E9%9F%A9%E5%9B%BD%E6%B5%B7%E5%A4%96%E4%BD%8F%E5%AE%85%E4%BB%A3%E7%90%86%E9%80%82%E5%90%88%E6%8E%A5%E5%8F%A3%E8%B0%83%E7%94%A8%E5%90%97%2C%E6%8D%A2%E5%9C%B0%E5%8C%BA%E9%87%8D%E9%83%A8%E7%BD%B2%E6%97%B6%E7%95%99%E6%84%8F%E7%B3%BB%E7%BB%9F%E6%97%B6%E5%8C%BA%E5%92%8C%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E5%81%8F%E7%A7%BB.md">tbigj</a>
+<a href="https://github.com/byrdbryan5830/byr/commit/6a18c37305ea10925103e35954f4caefb7d68065">fffzj</a>
+<a href="https://github.com/murraystephen6/mur/commit/cab736137ca704c9e171b5fe7e9605ed63f39611">qrslq</a>
+<a href="https://github.com/doylesarah0756/doy/commit/1631e8ed763e768de11f852da0106ad8bbfadb6a">vutjk</a>
+<a href="https://github.com/parkerdavid71/par/blob/main/%E6%8C%AA%E5%A8%81%E5%9B%BA%E5%AE%9AIP%E5%81%9A%E5%AE%89%E8%A3%85%E5%A4%9F%E7%94%A8%E5%90%97%2C%E7%BB%AD%E8%B4%B9%E5%91%A8%E6%9C%9F%E6%92%9E%E4%B8%8A%E6%8C%82%E6%9C%BA%E9%AB%98%E5%B3%B0%2C%E6%8F%90%E5%89%8D%E5%8D%81%E5%A4%A9%E7%BB%AD%E8%83%BD%E5%B0%91%E4%B8%80%E6%AC%A1%E5%8D%8A%E5%A4%9C%E6%8E%89%E7%BA%BF%E7%9A%84%E6%8A%98%E8%85%BE.md">ezdcu</a>
+<a href="https://github.com/lijoseph676/lij/commit/b2457dd4ac61a0dd99fc90d433d19d0bae13f2e2">ewbsw</a>
+<a href="https://github.com/pauljeanne2/pau/blob/main/%E7%BA%BD%E7%BA%A6%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E4%B8%93%E7%BA%BF%E5%81%9A%E5%BA%97%E9%93%BA%E7%99%BB%E5%BD%95%E5%A4%9F%E7%94%A8%E5%90%97%2C%E8%BF%81%E7%A7%BB%E5%89%8D%E6%8A%8ADNS%E8%A7%A3%E6%9E%90%E7%9A%84TTL%E8%B0%83%E7%9F%AD%2C%E5%88%87%E6%8D%A2%E6%97%B6%E4%B8%9A%E5%8A%A1%E4%B8%AD%E6%96%AD%E8%83%BD%E7%BC%A9%E5%88%B0%E5%87%A0%E5%88%86%E9%92%9F.md">mpdxx</a>
+<a href="https://github.com/carlsonandrew0249/car/commit/9566c2735b08635c42584e560780114be2f29685">qdakj</a>
+<a href="https://github.com/petersenjustin6516/pet/blob/main/%E8%8A%AC%E5%85%B0%E8%84%B8%E4%B9%A6%E7%BA%A2%E4%BA%BA%E5%90%88%E4%BD%9C%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8%2C%E7%BE%A4%E7%BB%84%E6%89%B9%E9%87%8F%E5%8F%91%E5%B8%83%E8%A2%AB%E6%8A%98%E5%8F%A0%2C%E8%B7%9F%E5%87%BA%E5%8F%A3%E8%A2%AB%E6%A0%87%E8%AE%B0%E6%88%90%E6%9C%BA%E6%88%BF%E6%AE%B5%E8%84%B1%E4%B8%8D%E5%BC%80%E5%85%B3%E7%B3%BB.md">ttzhn</a>
+<a href="https://github.com/drakecatherine657/dra/commit/ebb080becdf68532b6876ebb49866a70afe4a6bc">fhzzh</a>
+<a href="https://github.com/brownmatthew1889/bro/blob/main/%E6%AF%94%E5%88%A9%E6%97%B6%E9%9D%99%E6%80%81%E4%BD%8F%E5%AE%85IP%E5%81%9A%E4%BA%8C%E6%AC%A1%E5%89%AA%E8%BE%91%E5%A4%9F%E7%94%A8%E5%90%97%2C%E7%B4%A0%E6%9D%90%E5%BA%93%E9%87%8C%E7%9A%84%E5%A4%A7%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%9B%B4%E5%90%83%E5%87%BA%E5%8F%A3%E7%9A%84%E6%8C%81%E7%BB%AD%E5%B8%A6%E5%AE%BD.md">gjhuw</a>
+<a href="https://github.com/greenebryan3/gre/blob/main/%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%8E%A8%E7%89%B9%E9%99%90%E6%B5%81%E6%81%A2%E5%A4%8D%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8%2C%E6%95%B0%E6%8D%AE%E7%9C%8B%E6%9D%BF%E7%99%BB%E5%BD%95%E5%BC%82%E5%B8%B8%E6%8F%90%E7%A4%BA%E5%B8%B8%E6%9D%A5%E8%87%AA%E5%87%BA%E5%8F%A3IP%E6%AE%B5%E5%A4%AA%E9%9B%86%E4%B8%AD.md">atibs</a>
+<a href="https://github.com/wilsonchelsea51/wil/blob/main/%E5%8D%97%E9%9D%9E%E6%B2%B9%E7%AE%A1%E9%A2%91%E9%81%93%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E6%89%8B%E6%9C%BA%E8%83%BD%E7%94%A8%E5%90%97%2C%E4%B8%8A%E4%BC%A0%E4%B8%AD%E6%96%AD%E5%90%8E%E9%87%8D%E4%BC%A0%E5%A4%B1%E8%B4%A5%E5%A4%9A%E5%8D%8A%E6%98%AF%E5%87%BA%E5%8F%A3IP%E4%B8%AD%E9%80%94%E6%8D%A2%E4%BA%86%E6%AE%B5.md">uxqyc</a>
+<a href="https://github.com/clineamy08/cli/commit/8fcfbe1dcc3c5452b0276e955ce2e4c1085da054">heduw</a>
+<a href="https://github.com/wilcoxbrandi06/wil/blob/main/%E8%8A%9D%E5%8A%A0%E5%93%A5%E5%8F%8CISP%E5%AE%B6%E5%AE%BD%E5%81%9A%E5%B9%BF%E5%91%8A%E5%BC%80%E6%88%B7%E5%A4%9F%E7%94%A8%E5%90%97%2C%E6%8A%95%E6%94%BE%E5%90%8E%E5%8F%B0%E5%A4%9C%E9%97%B4%E4%B9%9F%E8%A6%81%E7%9B%AF%E6%95%B0%E6%8D%AE%2C%E5%87%BA%E5%8F%A3%E6%96%AD%E4%B8%80%E6%AC%A1%E5%BD%93%E5%A4%A9%E7%9A%84%E8%B0%83%E6%95%B4%E5%B0%B1%E7%99%BD%E5%81%9A.md">didqr</a>
+<a href="https://github.com/rangelmark076/ran/commit/a031d5a771348074ebc94a2e7dbd8f0bff281e7a">jejmf</a>
+
+<h3>GitHub Copilot CLI 为何沉默？命令行AI编程入口的生存指南</h3>
+<p>本文深入解析GitHub Copilot CLI近期30天零更新的战略原因，指出其正从轻量命令行工具向企业级MCP平台演进。内容涵盖CLI设计局限、认证与配置关键细节、chat/review/status命令的正确用法，并提供绕过CLI直调Copilot API、迁移至DeepSeek/Claude等替代方案的实操路径，强调在AI编程入口转向可控、可审计平台趋势下的开发者应对策略。</p>
+相关链接：<a href="https://github.com/meyerryan118/mey/blob/main/00%E5%90%8E%E5%A5%B3%E7%94%9F%E7%99%BD%E4%B8%9D%E8%A2%9C%E8%A7%86%E9%A2%91%E7%A0%B4%E8%A7%A3%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.525.455%E5%AE%89%E5%8D%93%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD.md">nugkn</a>
+<a href="https://github.com/logancandice66/log/blob/main/%E8%8A%9D%E5%8A%A0%E5%93%A5%E9%AB%98%E5%8C%BF%E4%BB%A3%E7%90%86IP%E5%81%9A%E6%A3%80%E6%B5%8B%E5%A4%9F%E7%94%A8%E5%90%97%2C%E9%85%8D%E7%BD%AE%E9%83%A8%E7%BD%B2%E6%97%B6%E6%B3%A8%E6%84%8F%E5%87%BA%E5%8F%A3IP%E7%9A%84%E8%BF%9E%E9%80%9A%E6%80%A7%2C%E5%88%AB%E8%A3%85%E5%AE%8C%E6%89%8D%E5%8F%91%E7%8E%B0%E8%BF%9E%E4%B8%8D%E4%B8%8A%E7%9B%AE%E6%A0%87%E6%9C%8D%E5%8A%A1.md">pivtn</a>
+<a href="https://github.com/suttonstephen45/sut/blob/main/18%20%E5%B0%91%E5%A5%B3%20%E8%88%94%E8%88%94%E6%9C%80%E6%96%B0%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.177.785%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD.md">ieqlx</a>
+<a href="https://github.com/hernandezjacob9500/her/commit/d6eeafbb7b882bc11b0c81bcecf13b9878e30089">ycdwt</a>
+<a href="https://github.com/brownmelissa0990/bro/commit/58d27c319a533ea4ba8eb0d433528f323dcc1939">tmflv</a>
+<a href="https://github.com/riveradale965/riv/commit/8f199d6045c35c449d42300324faedd481da41a8">ljsrg</a>
+<a href="https://github.com/robinsonalexandra27/rob/commit/4f769ecaa832bf4e2b7d8365a737f6a2dc8aa138">yjfjq</a>
+<a href="https://github.com/hansonregina75/han/commit/292ab8d167463cc8842467b968f92d850d96dfec">sduwp</a>
+<a href="https://github.com/dominguezricky9/dom/commit/90ec20196267ed9a97be9c357e051e8ae02d666f">davvm</a>
+<a href="https://github.com/gordonmichael6/gor/commit/77d8f1c543c08b11b8917545f8b6a68fb1ecfb6c">aioos</a>
+<a href="https://github.com/logancandice66/log/blob/main/%E8%8A%9D%E5%8A%A0%E5%93%A5%E5%AE%B6%E5%BA%AD%E4%BD%8F%E5%AE%85IP%E5%81%9A%E6%95%B0%E6%8D%AE%E6%8A%93%E5%8F%96%E5%A4%9F%E7%94%A8%E5%90%97%2C%E6%95%B0%E6%8D%AE%E6%A0%87%E6%B3%A8%E4%BB%BB%E5%8A%A1%E8%A6%81%E6%B1%82%E7%99%BB%E5%BD%95%E7%8E%AF%E5%A2%83%E4%B8%80%E8%87%B4%E5%90%A6%E5%88%99%E5%AE%B9%E6%98%93%E9%87%8D%E6%9D%A5.md">tuepc</a>
+<a href="https://github.com/spencerlori759/spe/commit/7a3083cd10882c2eded73670f7084f5558c1f2fa">jobuw</a>
+<a href="https://github.com/kimdaniel6644/kim/blob/main/%E6%B3%95%E5%9B%BD%E7%9C%9F%E5%AE%9E%E5%AE%B6%E5%BA%AD%E5%AE%BD%E5%B8%A6%E5%92%8C%E5%85%8D%E8%B4%B9%E4%BB%A3%E7%90%86%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97%2C%E5%8C%85%E6%9C%88%E5%88%B0%E6%9C%9F%E5%89%8D%E5%A4%9A%E4%B9%85%E6%8F%90%E9%86%92%E5%86%B3%E5%AE%9A%E4%BD%A0%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%96%AD%E6%A1%A3%E6%8E%89%E7%BA%BF.md">zwpmt</a>
+<a href="https://github.com/evanszachary1/eva/blob/main/2015%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3%E8%B7%B3%E7%88%B1%E6%83%85%E4%B9%B0%E5%8D%96%E5%AE%98%E6%96%B9%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.601.298PC%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD.md">ferya</a>
+<a href="https://github.com/lijoseph676/lij/blob/main/%E6%96%B0%E8%A5%BF%E5%85%B0%E6%B5%B7%E5%A4%96%E4%BD%8F%E5%AE%85%E7%BD%91%E7%BB%9C%E5%81%9A%E8%B4%A6%E5%8F%B7%E8%A7%A3%E5%B0%81%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E6%8C%89%E9%87%8F%E6%A8%A1%E5%BC%8F%E9%80%82%E5%90%88%E6%B5%8B%E8%AF%95%E6%9C%9F%E5%8C%85%E6%9C%88%E9%80%82%E5%90%88%E9%95%BF%E6%9C%9F%E6%8C%82%E6%9C%BA.md">vzmrj</a>
+<a href="https://github.com/wangjohn5260/wan/blob/main/%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%B7%A8%E5%A2%83%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E5%81%9A%E6%A3%80%E6%B5%8B%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E9%85%8D%E7%BD%AE%E9%83%A8%E7%BD%B2%E6%97%B6%E6%8A%8A%E8%B6%85%E6%97%B6%E5%8F%82%E6%95%B0%E6%8C%89%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E8%B0%83%E5%90%88%E9%80%82.md">fbvjc</a>
+<a href="https://github.com/pauljeanne2/pau/commit/4c28b6d875b403a1feb63cbcf2decdd625461a90">xbafb</a>
+<a href="https://github.com/willisjennifer5034/wil/commit/f6f7e6037c09c4e3144a06664fdc1d498f7a16f4">vxflg</a>
+<a href="https://github.com/parkerdavid71/par/commit/f6037762f9727549155e5bb999f31758a7830a1c">xchkg</a>
+<a href="https://github.com/drakecatherine657/dra/commit/e71dacad34c6cc12f70a0491427c6246928d3247">rvrle</a>
+
+<h3>突破Cursor API限制：cursor-free-vip实现无限制Pro功能的技术解析</h3>
+<p>本文深入剖析cursor-free-vip如何通过设备标识重置（修改telemetry.devDeviceId、machine-id等）、智能多账户管理及令牌自动刷新三大核心技术，绕过Cursor的API调用限制，实现Pro功能免付费使用。重点涵盖SQLite/JSON配置篡改、Windows/Linux系统级指纹更新、Selenium自动化注册、账户健康监控等关键技术点，适用于AI编程提效与本地化开发环境优化。</p>
+相关链接：<a href="https://github.com/caldwelljoseph88/cal/blob/main/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E7%8B%AC%E7%AB%8B%E7%AB%99%E8%B7%9F%E5%8D%96%E7%9B%91%E6%8E%A7%E8%83%BD%E9%95%BF%E6%9C%9F%E7%94%A8%E5%90%97%2C%E7%9B%91%E6%8E%A7%E8%84%9A%E6%9C%AC%E6%8C%82%E5%AE%B6%E5%AE%BD%E5%87%BA%E5%8F%A3%2C%E6%8A%93%E5%8F%96%E7%89%B9%E5%BE%81%E6%9B%B4%E6%8E%A5%E8%BF%91%E7%9C%9F%E5%AE%9E%E8%AE%BF%E5%AE%A2.md">kkhgx</a>
+<a href="https://github.com/suttonstephen45/sut/blob/main/16%E5%B2%81%E7%94%B7%E7%94%9F%E7%A2%8E%E5%8F%91%E7%A0%B4%E8%A7%A3%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.698.232%E4%B8%AA%E4%BA%BA%E7%89%88%E4%B8%8B%E8%BD%BD.md">bvwgr</a>
+<a href="https://github.com/kimdaniel6644/kim/blob/main/%E5%9C%9F%E8%80%B3%E5%85%B6Sora%E9%82%AE%E7%AE%B1%E9%AA%8C%E8%AF%81%E6%80%8E%E4%B9%88%E5%88%A4%E6%96%AD%E7%9C%9F%E5%81%87%2CCursor%E8%BF%99%E7%B1%BB%E5%B7%A5%E5%85%B7%E7%99%BB%E5%BD%95%E5%90%8E%E9%A2%91%E7%B9%81%E6%8D%A2%E5%87%BA%E5%8F%A3%E4%BC%9A%E8%A7%A6%E5%8F%91%E4%BA%8C%E6%AC%A1%E9%AA%8C%E8%AF%81.md">gcfjm</a>
+<a href="https://github.com/whitethomas5437/whi/commit/e86c076287d842756f151f6d396bdac45825200a">okhjm</a>
+<a href="https://github.com/christiancurtis5/chr/commit/850ad67fee1d157487c83ce0b0135de58d889030">dsjnb</a>
+<a href="https://github.com/ellissandra214/ell/commit/0a2265fee2500dee589bf7ae4d95ee0f48ac1251">uyxyz</a>
+<a href="https://github.com/wilsonchelsea51/wil/blob/main/%E8%8B%B1%E5%9B%BD%E6%9C%AC%E5%9C%B0%E5%8E%9F%E7%94%9FIP%E5%81%9A%E4%BD%A3%E9%87%91%E7%BB%93%E7%AE%97%E5%A4%9F%E7%94%A8%E5%90%97%2C%E5%90%8C%E4%B8%80%E4%B8%AA%E5%87%BA%E5%8F%A3IP%E8%A2%AB%E5%A4%9A%E4%B8%AA%E6%94%B6%E6%AC%BE%E8%B4%A6%E5%8F%B7%E5%85%B1%E7%94%A8%E6%98%93%E8%A7%A6%E5%8F%91%E5%85%B3%E8%81%94%E5%AE%A1%E6%A0%B8.md">smjgq</a>
+<a href="https://github.com/morrisanthony1/mor/commit/4522ee55268d85d01d47bd867725c0c6a898c0bd">rzwxc</a>
+<a href="https://github.com/murraystephen6/mur/blob/main/Claude%E4%BD%8F%E5%AE%85IP%E5%BC%82%E5%B8%B8%E7%99%BB%E5%BD%95%2C%E8%A6%81%E5%BC%80%E6%96%B0%E5%9C%B0%E5%8C%BA%E5%B8%82%E5%9C%BA%E5%B0%B1%E6%8D%A2%E7%8B%AC%E4%BA%AB%E5%87%BA%E5%8F%A3%2C%E4%B8%80%E4%B8%AA%E5%8F%B7%E4%B8%80%E6%9D%A1%E7%BA%BF%E8%B7%AF%E4%B8%8D%E5%92%8C%E5%88%AB%E4%BA%BA%E6%8C%A4.md">reprj</a>
+<a href="https://github.com/byrdbryan5830/byr/blob/main/%E4%BC%A6%E6%95%A6%E5%85%B1%E4%BA%AB%E4%BD%8F%E5%AE%85IP%E9%80%9F%E5%BA%A6%E6%85%A2%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%2C%E4%BB%8E%E5%85%B1%E4%BA%AB%E6%8D%A2%E5%88%B0%E7%8B%AC%E4%BA%AB%E5%87%BA%E5%8F%A3%2C%E5%B8%A6%E5%AE%BD%E4%B8%8D%E5%86%8D%E8%A2%AB%E9%82%BB%E5%B1%85%E5%8D%A0%E6%BB%A1%2C%E5%90%8E%E6%9C%9F%E5%8A%A0%E5%8F%B7%E7%9B%B4%E6%8E%A5%E6%89%A9%E7%BA%BF%E8%B7%AF%E5%B0%B1%E8%A1%8C.md">jhfcw</a>
+<a href="https://github.com/clineamy08/cli/commit/6df9b486ba36f71b1a9f882036e8a0ec3c017ba6">vcveu</a>
+<a href="https://github.com/walshjessica859/wal/commit/1225b06a68d6ca62bf9200c0c0a35689779f7081">hoxra</a>
+<a href="https://github.com/cruzjoshua138/cru/commit/d6977115d0858e50fb82620f284ece3291e3f5b4">wiszw</a>
+<a href="https://github.com/carlsonandrew0249/car/commit/50a55cae26dac76b5ab374886de24d0f15430f28">anduh</a>
+<a href="https://github.com/wangjohn5260/wan/blob/main/%E8%A5%BF%E7%8F%AD%E7%89%99%E7%8B%AC%E4%BA%AB%E4%BB%A3%E7%90%86IP%E5%81%9A%E5%9B%A2%E9%98%9F%E5%85%B1%E4%BA%AB%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E7%BE%A4%E6%8E%A7%E8%AE%BE%E5%A4%87%E5%A4%9A%E6%97%B6%E5%87%BA%E5%8F%A3%E5%B8%A6%E5%AE%BD%E8%A2%AB%E6%8C%A4%E6%BB%A1%E4%BC%9A%E8%AE%A9%E7%99%BB%E5%BD%95%E8%AF%B7%E6%B1%82%E6%8E%92%E9%98%9F%E5%8D%A1%E4%BD%8F.md">zksam</a>
+<a href="https://github.com/murraystephen6/mur/blob/main/Claude%20Pro%E7%94%A8%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6IP%2C%E8%A2%AB%E6%9C%BA%E6%88%BF%E6%AE%B5%E5%9D%91%E8%BF%87%E7%9A%84%E6%8D%A2%E8%87%AA%E8%90%A5%E4%BD%8F%E5%AE%85%E7%BA%BF%E8%B7%AF%2C%E6%B3%A8%E5%86%8C%E8%AE%A2%E9%98%85%E5%85%BB%E5%8F%B7%E6%97%A5%E5%B8%B8%E5%AF%B9%E8%AF%9D%E9%83%BD%E7%A8%B3.md">rfzpj</a>
+<a href="https://github.com/wilkersonmadison421/wil/commit/d52d8a36c3fab03600dd5dcc3e39c4080c596df2">jrjir</a>
+<a href="https://github.com/spencerlori759/spe/blob/main/ai%E8%BD%AF%E4%BB%B6%E5%AD%97%E4%BD%93%E5%8F%98%E5%8C%96%E5%AE%98%E6%96%B9%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.981.658%E5%AE%89%E5%8D%93APK%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD.md">camzc</a>
+<a href="https://github.com/petersenjustin6516/pet/blob/main/%E5%BE%B7%E5%9B%BD%E7%BA%AF%E5%87%80%E4%BD%8F%E5%AE%85IP%E5%81%9A%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E5%8F%91%E5%B8%83%E5%89%8D%E4%B8%B4%E6%97%B6%E6%8D%A2%E5%87%BA%E5%8F%A3%E5%AE%B9%E6%98%93%E8%A7%A6%E5%8F%91%E9%A3%8E%E6%8E%A7%E5%AE%A1%E6%A0%B8%E5%BB%B6%E9%95%BF%E5%88%B0%E5%87%A0%E4%B8%AA%E5%B0%8F%E6%97%B6.md">eyuvr</a>
+<a href="https://github.com/russelljimmy8521/rus/commit/9987db3f8398ad0caae6ebd3ef953f02dae685e0">tyxtl</a>
+
+<h3>海尔智家、米家、华为智慧生活深度实测：哪个智能家居APP最值得选？</h3>
+<p>本文基于长期深度使用，从连接稳定性、设备生态丰富度、自动化能力、日常操作体验四个维度，对海尔智家、米家、华为智慧生活三款主流智能家居APP进行实测对比。重点分析各平台在Wi-Fi/蓝牙/PLC-IoT连接表现、第三方设备接入数量与兼容性、多条件自动化逻辑支持、APP响应速度与多端协同等关键技术指标，并给出不同用户群体（如海尔家电用户、性价比追求者、华为全家桶用户）的选型建议及典型问题排查方案。</p>
+相关链接：<a href="https://github.com/johnsonallen49/joh/commit/71c68cd155a2a77bba5534cd313831a8b7894b61">vneyy</a>
+<a href="https://github.com/cortezsteven500/cor/blob/main/%E5%85%B3%E4%BA%8E%E4%BD%8F%E5%AE%85%E4%BB%A3%E7%90%86Facebook%E8%B4%AD%E4%B9%B0%E6%B5%81%E7%A8%8B%2C%E5%94%AE%E5%90%8E%E7%BE%A4%E9%87%8C%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8A%80%E6%9C%AF%E4%BA%BA%E5%91%98%2C%E7%94%B3%E8%AF%89%E9%80%9A%E9%81%93%E8%A6%81%E6%8F%90%E5%89%8D%E4%BA%86%E8%A7%A3.md">phmxz</a>
+<a href="https://github.com/brooksdebra16/bro/commit/4a7854a4f6832d9b9abe81d325cf33c9c69a2b23">nqjeq</a>
+<a href="https://github.com/fosterdaniel823/fos/blob/main/%E5%9B%B4%E7%BB%95%E6%8C%89%E9%87%8F%E4%BD%8F%E5%AE%85IP%E5%8D%A1%E9%A1%BF%2C%E5%85%88%E8%B7%91%E9%80%9A%E5%86%8D%E6%94%BE%E9%87%8F%E6%98%AF%E9%80%9A%E7%94%A8%E5%81%9A%E6%B3%95%2C%E5%9C%B0%E5%9D%80%E6%B1%A0%E6%9B%B4%E6%96%B0%E6%85%A2%E5%B0%B1%E5%AE%B9%E6%98%93%E6%92%9E%E6%AE%B5.md">npffj</a>
+<a href="https://github.com/mcdaniellauren7/mcd/commit/a0886b35b8fb3f4f11b3a2e86296133bbfc21c7f">tsmro</a>
+<a href="https://github.com/ramirezashley0672/ram/commit/3f6282fa7dc281482e68dad498f82ec1283ca732">ncxfr</a>
+<a href="https://github.com/clineamy08/cli/commit/ddd4ec882ca1cea8b9c1e47ef6f286a7eb5a5cbf">sdwho</a>
+<a href="https://github.com/daviesleslie4290/dav/blob/main/%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E6%9C%AC%E5%9C%B0%E5%8C%96%E6%8E%92%E5%90%8D%E8%83%BD%E5%A4%9A%E5%BC%80%E5%90%97%2C%E5%B0%8F%E5%8F%B7%E5%85%BB%E8%B5%B7%E6%9D%A5%E4%B9%8B%E5%89%8D%E5%85%88%E7%94%A8%E5%B0%91%E9%87%8FIP%E9%AA%8C%E8%AF%81%E7%99%BB%E5%BD%95%E7%8E%AF%E5%A2%83%E6%98%AF%E5%90%A6%E6%AD%A3%E5%B8%B8.md">xxpel</a>
+<a href="https://github.com/bradleydavid09/bra/commit/e527ac69f5e47cc071cad9554ba0d24ca3d9cf70">icdhz</a>
+<a href="https://github.com/wilsonchelsea51/wil/blob/main/%E9%9F%A9%E5%9B%BD%E6%B5%B7%E5%A4%96%E7%8B%AC%E4%BA%ABIP%E5%81%9A%E5%B0%81%E5%8F%B7%E7%94%B3%E8%AF%89%E5%A4%9F%E7%94%A8%E5%90%97%2C%E8%BF%81%E7%A7%BB%E5%88%B0%E6%96%B0%E7%BA%BF%E8%B7%AF%E5%90%8E%E6%97%A7%E4%BB%BB%E5%8A%A1%E5%85%88%E5%81%9C%E4%B8%80%E5%A4%A9%2C%E8%A7%82%E5%AF%9F%E6%97%A5%E5%BF%97%E9%87%8C%E6%9C%89%E6%B2%A1%E6%9C%89%E8%BF%9E%E4%B8%8D%E4%B8%8A%E7%9A%84%E6%8A%A5%E9%94%99.md">zfgqh</a>
+<a href="https://github.com/coxdevin11/cox/blob/main/ai%E6%B5%8B%E8%AF%95%E5%B9%B4%E9%BE%84%E8%BD%AF%E4%BB%B6%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.885.091%E5%AE%89%E5%8D%93APK%E5%AE%98%E6%96%B9%E4%B8%8B%E8%BD%BD.md">mlgxa</a>
+<a href="https://github.com/mcdaniellauren7/mcd/commit/cd5245115935c78b93dc12096710d1f8de6b7cd6">lguqq</a>
+<a href="https://github.com/carlsonandrew0249/car/blob/main/%E9%98%BF%E8%81%94%E9%85%8B%E7%9C%9F%E5%AE%9E%E4%BD%8F%E5%AE%85IP%E5%81%9A%E5%BC%82%E5%9C%B0%E7%99%BB%E5%BD%95%E5%A4%9F%E7%94%A8%E5%90%97%2C%E8%BF%81%E7%A7%BB%E7%BB%AD%E8%B4%B9%E6%B5%81%E7%A8%8B%E8%B5%B0%E4%B8%80%E9%81%8D%E5%B0%B1%E7%9F%A5%E9%81%93%E5%90%8E%E5%8F%B0%E6%93%8D%E4%BD%9C%E9%A1%BA%E4%B8%8D%E9%A1%BA%E6%89%8B.md">eamhy</a>
+<a href="https://github.com/ellissandra214/ell/blob/main/%E5%8A%A0%E6%8B%BF%E5%A4%A7Claude%E9%82%AE%E7%AE%B1%E9%AA%8C%E8%AF%81%E6%80%8E%E4%B9%88%E9%98%B2%E5%85%B3%E8%81%94%2C%E5%8F%B7%E4%B8%80%E5%A4%9A%E5%B0%B1%E5%BE%97%E6%89%A9%E7%BA%BF%E8%B7%AF%2C%E7%8B%AC%E4%BA%AB%E5%AE%B6%E5%AE%BD%E5%87%BA%E5%8F%A3%E8%AE%A9%E6%AF%8F%E4%B8%AA%E9%82%AE%E7%AE%B1%E8%B5%B0%E8%87%AA%E5%B7%B1%E7%9A%84IP.md">xbmtg</a>
+<a href="https://github.com/bradleydavid09/bra/commit/36747767444c538602dfc7f14777b04890f7b6a8">rjken</a>
+<a href="https://github.com/freemanshawna97/fre/blob/main/%E6%B3%95%E5%9B%BD%E7%A7%81%E4%BA%BAIP%E5%81%9A%E5%B9%BF%E5%91%8A%E8%B4%A6%E6%88%B7%E7%94%B3%E8%AF%89%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E5%90%8C%E4%B8%80%E5%87%BA%E5%8F%A3IP%E6%8C%82%E5%A4%9A%E4%B8%AA%E5%B9%BF%E5%91%8A%E8%B4%A6%E6%88%B7%E5%AE%B9%E6%98%93%E8%A2%AB%E5%85%B3%E8%81%94%E5%88%B0%E5%90%8C%E4%B8%80%E4%B8%AA%E4%B8%BB%E4%BD%93.md">yfhiq</a>
+<a href="https://github.com/clineamy08/cli/blob/main/%E5%A5%A5%E5%9C%B0%E5%88%A9%E7%8B%AC%E7%AB%8B%E7%AB%99%E5%90%8E%E5%8F%B0%E6%95%B0%E6%8D%AE%E6%8A%93%E5%8F%96%E5%A4%9A%E5%B0%91%E9%92%B1%2C%E5%B8%83%E7%AB%99%E6%B5%8B%E8%AF%95%E6%94%AF%E4%BB%98%E6%B5%81%E7%A8%8B%E8%A6%81%E7%94%A8%E5%92%8C%E5%AE%A2%E6%88%B7%E5%90%8C%E5%9C%B0%E5%8C%BA%E7%9A%84%E5%87%BA%E5%8F%A3.md">vasrk</a>
+<a href="https://github.com/russelljimmy8521/rus/blob/main/%E8%8B%B1%E5%9B%BD%E7%AB%9E%E5%93%81%E7%BD%91%E7%AB%99%E9%82%AE%E4%BB%B6%E8%90%A5%E9%94%80%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8%2C%E8%BF%81%E7%A7%BB%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%97%B6IP%E4%B8%8D%E8%B7%9F%E7%9D%80%E8%B5%B0%2C%E5%8E%9F%E6%9D%A5%E7%9A%84%E7%99%BB%E5%BD%95%E7%8E%AF%E5%A2%83%E5%85%A8%E8%A6%81%E9%87%8D%E5%BB%BA.md">qjmbe</a>
+<a href="https://github.com/murraystephen6/mur/commit/f02b5137adfc4ff16e027387f922a7147419bf1a">fqtxz</a>
+<a href="https://github.com/ramirezashley0672/ram/blob/main/%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B7%A8%E5%A2%83%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E5%81%9A%E9%A2%9D%E5%BA%A6%E5%85%B1%E4%BA%AB%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E9%83%A8%E7%BD%B2%E7%8E%AF%E5%A2%83%E6%97%B6%E6%8A%8A%E6%97%A5%E5%BF%97%E7%BA%A7%E5%88%AB%E8%B0%83%E9%AB%98%E4%B8%80%E7%82%B9%E6%96%B9%E4%BE%BF%E5%AE%9A%E4%BD%8D%E6%96%AD%E8%BF%9E%E5%8E%9F%E5%9B%A0.md">bcxsy</a>
+
+<h3>Rufus 启动盘制作教程：5 分钟把 U 盘变成系统安装介质</h3>
+<p>本文详细介绍了使用Rufus工具在5分钟内将U盘制作成系统安装启动盘的方法。涵盖快速上手五步流程、ISO镜像写入、自动下载Windows官方ISO、GPT/MBR分区方案选择、UEFI/BIOS兼容配置、Windows安装体验自定义、镜像校验（MD5/SHA系列）、常见问题排查（如设备识别失败、启动失败、假容量检测）及进阶用法（Linux数据分区、Windows To Go、FreeDOS启动盘）。强调其开源免费、免安装、高兼容性等核心特性。</p>
+相关链接：<a href="https://github.com/wilsonchelsea51/wil/commit/b82bfa164fda3922630cfbebaac9119033e352ad">narsk</a>
+<a href="https://github.com/watkinsmorgan27/wat/blob/main/%E5%8D%B0%E5%BA%A6Cursor%E5%B0%81%E5%8F%B7%E7%94%B3%E8%AF%89%E5%BB%B6%E8%BF%9F%E9%AB%98%E4%B8%8D%E9%AB%98%2C%E7%94%B3%E8%AF%89%E6%9C%9F%E9%97%B4%E5%8F%B7%E8%BF%98%E5%BE%97%E5%9C%A8%E7%BA%BF%E4%BF%9D%E6%8C%81%E6%B4%BB%E8%B7%83%2C%E7%BA%BF%E8%B7%AF%E7%A8%B3%E4%B8%8D%E7%A8%B3%E7%9B%B4%E6%8E%A5%E5%BD%B1%E5%93%8D%E5%A4%84%E7%90%86%E8%8A%82%E5%A5%8F.md">xrspe</a>
+<a href="https://github.com/robinsonalexandra27/rob/commit/67f49c37c29a9d4f1a6afe100dcba809649c322d">rkqyi</a>
+<a href="https://github.com/davisnicholas3391/dav/commit/2ab1257c0a940788d68457e95c966acf45ed6af1">kdhit</a>
+<a href="https://github.com/cortezsteven500/cor/blob/main/%E5%85%B3%E4%BA%8E%E4%BB%A5%E8%89%B2%E5%88%97%E4%BD%8F%E5%AE%85IP%E5%94%AE%E5%90%8E%2C%E4%BB%B7%E5%B7%AE%E7%9A%84%E6%98%AF%E7%A8%80%E7%BC%BA%E4%B8%8D%E6%98%AF%E9%80%9F%E5%BA%A6%2C%E7%8E%AF%E5%A2%83%E9%85%8D%E5%90%88%E4%B8%8D%E5%A5%BD%E7%85%A7%E6%A0%B7%E5%87%BA%E9%97%AE%E9%A2%98.md">zqwnh</a>
+<a href="https://github.com/hoffmanlawrence34/hof/commit/1c5186b5bce7fead1651ffbc972b0c5b41613a05">ygitw</a>
+<a href="https://github.com/warejohn4366/war/commit/2b8404885896775288768c474196487ef13cc0bb">qidrp</a>
+<a href="https://github.com/schultzmartha05/sch/blob/main/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%8B%AC%E4%BA%AB%E5%AE%BD%E5%B8%A6%E5%81%9A%E8%B4%A6%E5%8F%B7%E7%BB%91%E5%AE%9A%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E9%85%8D%E7%BD%AE%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3%E5%86%99%E6%B8%85%E7%AB%AF%E5%8F%A3%E5%92%8C%E8%AE%A4%E8%AF%81%E6%96%B9%E5%BC%8F%E5%86%8D%E4%BA%A4%E6%8E%A5.md">qmwcv</a>
+<a href="https://github.com/johnsonmercedes6009/joh/commit/eb8f610693c81e287dd5e6c4c91e7e4874ea4266">nvcuh</a>
+<a href="https://github.com/cruzjoshua138/cru/blob/main/%E4%BC%A6%E6%95%A6%E7%94%B5%E6%8A%A5%E7%A7%81%E4%BF%A1%E5%BC%95%E6%B5%81%E6%9C%89%E6%B2%A1%E6%9C%89%E6%B5%8B%E8%AF%95IP%2C%E5%AF%B9%E6%AF%94%E8%BF%87%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9%E7%BA%BF%E8%B7%AF%E5%90%8E%2C%E6%B5%8B%E8%AF%95IP%E6%8C%89%E5%A4%A9%E7%BB%99%E5%88%B0%E5%85%88%E9%AA%8C%E8%AF%81%E5%87%BA%E5%8F%A3%E8%B4%A8%E9%87%8F.md">qotvl</a>
+<a href="https://github.com/willisjennifer5034/wil/commit/1b4931b90b1783a88abcfa4c1d7c7a283c5c6dd4">phfrz</a>
+<a href="https://github.com/ramirezashley0672/ram/commit/ba611bc1c3cb2880aa1f636a44dd7a1ccb7ca401">ukwvv</a>
+<a href="https://github.com/hallchristine827/hal/commit/d1aa8813a83b1139eda2d7458d6f1f1da482c09c">fuprx</a>
+<a href="https://github.com/hallchristine827/hal/commit/d59a3be5bcd82701308e06c20bed269d57526c00">phoqa</a>
+<a href="https://github.com/flemingkathleen00/fle/blob/main/%E4%BB%A5%E8%89%B2%E5%88%97Claude%E5%A4%9A%E8%AE%BE%E5%A4%87%E7%99%BB%E5%BD%95%E5%A5%BD%E7%94%A8%E5%90%97%2C%E8%B0%83%E7%94%A8%E6%8E%A5%E5%8F%A3%E9%A2%91%E7%B9%81%E8%B6%85%E6%97%B6%E5%85%88%E7%9C%8B%E5%87%BA%E5%8F%A3%E6%98%AF%E4%B8%8D%E6%98%AF%E5%92%8C%E5%88%AB%E4%BA%BA%E6%8A%A2%E5%90%8C%E4%B8%80%E6%AE%B5%E5%B8%A6%E5%AE%BD.md">dwxyb</a>
+<a href="https://github.com/coxdevin11/cox/commit/5293266f30b145e285f0ea3d22c71193b3a46049">jutby</a>
+<a href="https://github.com/hoffmanlawrence34/hof/blob/main/%E9%9D%99%E6%80%81%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E7%89%A9%E6%B5%81%E5%AF%B9%E6%8E%A5%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%9C%89%E5%93%AA%E4%BA%9B%2C%E7%BB%AD%E8%B4%B9%E6%97%B6%E5%9F%8E%E5%B8%82%E8%A2%AB%E5%9B%9E%E6%94%B6%E5%8F%AA%E8%83%BD%E6%8D%A2%E6%96%B0%E5%87%BA%E5%8F%A3%E9%87%8D%E6%96%B0%E9%85%8D%E7%8E%AF%E5%A2%83.md">bvvxz</a>
+<a href="https://github.com/kimdaniel6644/kim/blob/main/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8E%9F%E7%94%9F%E7%8B%AC%E4%BA%ABIP%E5%81%9A%E4%BD%A3%E9%87%91%E7%BB%93%E7%AE%97%E5%A4%9F%E7%94%A8%E5%90%97%2CPayPal%E9%A3%8E%E6%8E%A7%E7%9C%8B%E7%99%BB%E5%BD%95%E5%8E%86%E5%8F%B2%E6%96%AD%E7%BA%BF%E9%87%8D%E8%BF%9E%E6%8D%A2IP%E7%97%95%E8%BF%B9%E5%A4%AA%E9%87%8D.md">wojvj</a>
+<a href="https://github.com/lijoseph676/lij/commit/51b1b25e165e4d7c7e5672b1a970e1f135f0245b">lpasv</a>
+<a href="https://github.com/boydalexander01/boy/blob/main/%E6%99%BA%E5%88%A9%E7%8B%AC%E4%BA%AB%E7%BA%AF%E5%87%80IP%E5%81%9A%E8%B0%83%E8%AF%95%E5%A4%9F%E7%94%A8%E5%90%97%2C%E6%8C%82%E6%9C%BA%E5%89%8D%E5%85%88%E8%B7%91%E4%B8%80%E6%AC%A1%E7%BA%AF%E5%87%80%E5%BA%A6%E6%A3%80%E6%B5%8B%2C%E7%9C%8B%E8%BF%99%E6%9D%A1%E5%AE%B6%E5%AE%BD%E5%87%BA%E5%8F%A3%E6%9C%89%E6%B2%A1%E6%9C%89%E8%A2%AB%E5%89%8D%E4%BA%BA%E7%94%A8%E8%84%8F.md">kobil</a>
+
+<h3>COC部落冲突自动找鱼 python脚本</h3>
+<p>这篇博客介绍了如何通过Python自动化在部落冲突游戏中寻找合适的对手。作者利用adb、Tesseract OCR和图像识别技术，编写了一个脚本，实现了自动截图、识别和点击操作，以找到资源丰富的对手。脚本包括了屏幕截图、图像处理、资源识别和模拟点击等步骤，以避免手动操作和被封号的风险。虽然识别精度有待提高，但整体流程为玩家提供了便利。</p>
+相关链接：<a href="https://github.com/nguyenjulia535/ngu/blob/main/%E7%BA%BD%E7%BA%A6%E6%B5%B7%E5%A4%96%E5%AE%B6%E5%AE%BD%E5%81%9A%E6%95%B0%E6%8D%AE%E6%A0%87%E6%B3%A8%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%2C%E7%AB%9E%E5%93%81%E9%A1%B5%E9%9D%A2%E6%8C%89%E5%9C%B0%E5%8C%BA%E5%81%9A%E5%B7%AE%E5%BC%82%E5%8C%96%E5%B1%95%E7%A4%BA%2C%E5%87%BA%E5%8F%A3%E9%80%89%E9%94%99%E8%B0%83%E7%A0%94%E7%BB%93%E8%AE%BA%E5%B0%B1%E5%81%8F%E4%BA%86.md">apiwm</a>
+<a href="https://github.com/wilsoncheryl06/wil/blob/main/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B5%B7%E5%A4%96%E5%AE%BD%E5%B8%A6%E5%81%9A%E5%A4%9A%E8%B4%A6%E5%8F%B7%E5%88%87%E6%8D%A2%E5%A4%9F%E7%94%A8%E5%90%97%2C%E5%9B%BA%E5%AE%9A%E5%87%BA%E5%8F%A3%E8%AE%A9%E5%8F%B7%E7%9A%84%E6%93%8D%E4%BD%9C%E4%B9%A0%E6%83%AF%E5%92%8C%E8%AE%BE%E5%A4%87%E6%8C%87%E7%BA%B9%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4.md">bsjih</a>
+<a href="https://github.com/caldwelljoseph88/cal/blob/main/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B5%B7%E5%A4%96%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E6%8E%92%E5%90%8D%E5%AF%B9%E6%AF%94%E5%BB%B6%E8%BF%9F%E9%AB%98%E4%B8%8D%E9%AB%98%2C%E6%AF%8F%E4%B8%AA%E6%9F%A5%E8%AF%A2%E7%8E%AF%E5%A2%83%E5%8D%95%E7%8B%AC%E9%9A%94%E5%BC%80%2C%E7%BB%93%E6%9E%9C%E4%BA%92%E4%B8%8D%E6%B1%A1%E6%9F%93%2C%E5%AF%B9%E6%AF%94%E6%95%B0%E6%8D%AE%E6%89%8D%E5%8F%AF%E4%BF%A1.md">whutn</a>
+<a href="https://github.com/christiancurtis5/chr/blob/main/%E6%8C%AA%E5%A8%81%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E7%AB%9E%E5%93%81%E6%AF%94%E4%BB%B7%E4%B8%80%E5%B9%B4%E5%A4%9A%E5%B0%91%E9%92%B1%2C%E6%8A%A5%E4%BB%B7%E6%8C%89%E9%87%87%E9%9B%86%E9%A2%91%E7%8E%87%E5%92%8C%E5%B9%B6%E5%8F%91%E9%87%8F%E7%AE%97%2C%E4%BD%8E%E9%A2%91%E6%8A%93%E5%8F%96%E8%8A%B1%E4%B8%8D%E4%BA%86%E5%87%A0%E4%B8%AA%E9%92%B1.md">ntiyn</a>
+<a href="https://github.com/rodrigueztaylor87/rod/blob/main/%E4%BF%84%E7%BD%97%E6%96%AF%E6%8E%A8%E7%89%B9%E5%B9%BF%E5%91%8A%E8%B4%A6%E6%88%B7%E7%94%B3%E8%AF%89%E6%80%8E%E4%B9%88%E5%88%A4%E6%96%AD%E7%9C%9F%E5%81%87%2C%E7%94%B3%E8%AF%89%E6%9C%9F%E8%B4%A6%E5%8F%B7%E4%B8%8D%E8%83%BD%E4%B9%B1%E8%B7%B3IP%2C%E5%87%BA%E5%8F%A3%E5%9B%BA%E5%AE%9A%E6%89%8D%E4%B8%8D%E5%8A%A0%E9%87%8D%E5%85%B3%E8%81%94%E5%AB%8C%E7%96%91.md">vwitt</a>
+<a href="https://github.com/wilsoncheryl06/wil/blob/main/%E5%8F%8CISP%E5%AE%B6%E5%AE%BDIP%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%94%AF%E6%8C%81%E8%AF%95%E7%94%A8%E5%90%97%2C%E5%85%88%E5%B0%91%E9%87%8F%E5%BC%80%E5%87%A0%E6%9D%A1%E8%B7%91%E9%80%9A%E5%86%8D%E7%BB%AD%2C%E5%81%9A%E6%8A%95%E6%94%BE%E7%9A%84%E5%88%AB%E4%B8%80%E4%B8%8A%E6%9D%A5%E5%B0%B1%E5%8E%8B%E6%95%B4%E6%9C%88.md">vgpjv</a>
+<a href="https://github.com/robinsonalexandra27/rob/blob/main/%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A2%86%E8%8B%B1%E7%9B%B4%E6%92%AD%E6%8E%A8%E6%B5%81%E4%BC%9A%E4%B8%8D%E4%BC%9A%E8%A2%AB%E5%B9%B3%E5%8F%B0%E8%AF%86%E5%88%AB%2C%E7%A7%81%E4%BF%A1%E5%8F%91%E9%80%81%E5%A4%B1%E8%B4%A5%E7%8E%87%E9%AB%98%E7%9A%84%E6%97%B6%E5%80%99%2C%E5%85%88%E6%8E%92%E6%9F%A5%E5%87%BA%E5%8F%A3%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A2%AB%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E5%85%B1%E7%94%A8%E8%BF%87.md">djltj</a>
+<a href="https://github.com/morrisanthony1/mor/commit/c47f93f8d607e19d8d14861c69daa408ec87ec2c">zwapj</a>
+<a href="https://github.com/suttonstephen45/sut/commit/0364dcf57b7df0a5da6f1ed1361aa2688b7278f3">evmzl</a>
+<a href="https://github.com/dominguezricky9/dom/commit/0c449bf82002b2121b2fb72bac5f2ce6f89521a9">ogqos</a>
+<a href="https://github.com/evanszachary1/eva/blob/main/2015%E7%A6%81%E6%92%AD%E7%BE%8E%E5%89%A7%E5%90%8D%E5%8D%95%E7%A0%B4%E8%A7%A3%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.005.389%E6%89%8B%E6%9C%BA%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD.md">qeycb</a>
+<a href="https://github.com/washingtonjacob054/was/commit/cd00a68f543fdf3ff647058885b79fbdca173fea">qpfyz</a>
+<a href="https://github.com/christiancurtis5/chr/blob/main/%E6%89%B9%E9%87%8F%E6%9C%BA%E6%88%BF%E7%94%B5%E8%84%91%E5%9B%BA%E5%AE%9AIP%2C%E6%8C%82%E6%9C%BA%E6%B5%8B%E8%AF%95%E8%B7%91%E9%80%9A%E4%B8%8D%E4%BB%A3%E8%A1%A8%E8%83%BD%E9%95%BF%E6%9C%9F%E8%B7%91%2C%E8%A6%81%E8%A7%82%E5%AF%9F%E5%87%A0%E5%A4%A9%E7%9C%8B%E6%9C%89%E6%B2%A1%E6%9C%89%E5%91%A8%E6%9C%9F%E6%80%A7%E6%96%AD%E6%B5%81.md">buccn</a>
+<a href="https://github.com/riveradale965/riv/blob/main/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8E%9F%E7%94%9F%E7%8B%AC%E4%BA%ABIP%E5%81%9A%E5%B9%B6%E5%8F%91%E8%B0%83%E7%94%A8%E5%A4%9F%E7%94%A8%E5%90%97%2C%E8%BF%81%E7%A7%BB%E5%89%8D%E6%8A%8ADNS%E8%A7%A3%E6%9E%90%E7%9A%84TTL%E8%B0%83%E7%9F%AD%2C%E5%88%87%E6%8D%A2%E6%97%B6%E4%B8%9A%E5%8A%A1%E4%B8%AD%E6%96%AD%E8%83%BD%E7%BC%A9%E5%88%B0%E5%87%A0%E5%88%86%E9%92%9F.md">isrtm</a>
+<a href="https://github.com/suttonstephen45/sut/commit/b7178a67bead3711044472620b5ec43704b1119e">nsomh</a>
+<a href="https://github.com/suttonstephen45/sut/commit/988d4ddbb7baf5b21de625f045028444ff36c293">oubex</a>
+<a href="https://github.com/hernandezjacob9500/her/commit/ee8276199c563cc291040b07420d09488c019bbb">fkdfd</a>
+<a href="https://github.com/morrisanthony1/mor/blob/main/Ai%E5%9B%B4%E6%A3%8B%E6%95%99%E8%BE%85%E8%BD%AF%E4%BB%B6%E7%A0%B4%E8%A7%A3%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.730.198%E7%94%B5%E8%84%91%E7%89%88%E4%B8%8B%E8%BD%BD.md">muphm</a>
+<a href="https://github.com/spencerlori759/spe/blob/main/ai%E8%BD%AF%E4%BB%B6%E6%80%8E%E4%B9%88%E8%BE%93%E5%85%A5%E8%97%8F%E6%96%87%E7%BB%BF%E8%89%B2%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.619.451%E4%BE%BF%E6%90%BA%E7%89%88%E4%B8%8B%E8%BD%BD.md">wcxrw</a>
+<a href="https://github.com/brooksdebra16/bro/commit/e70bb7df51e19073b00f9566ad6db1751502daac">hoeqt</a>
+
+<h3>ChatGPT为啥这么强：万字长文详解 by WolframAlpha之父</h3>
+<p>本文由StephenWolfram详细解析ChatGPT的工作原理，解释了它如何基于概率和语言统计生成文本，涉及到大型语言模型、神经网络和注意力机制等概念。通过逐步分析，揭示了ChatGPT如何从单词选择到句子生成的过程，展示了其内部的复杂性和创造性。</p>
+相关链接：<a href="https://github.com/cortezsteven500/cor/commit/3841d6290a8351a8da2f9f96c6c5cbe779d90b64">lhhpb</a>
+<a href="https://github.com/gordonmichael6/gor/commit/8b278fb6783f4567686040a72ab93cd75e8774a7">kqypk</a>
+<a href="https://github.com/mahoneyrebecca4/mah/commit/be21f2dd7eac78ac34d6e8bc113a7bba318bffba">krnfp</a>
+<a href="https://github.com/spencerlori759/spe/blob/main/ai%E8%BD%AF%E4%BB%B6%E5%89%AA%E5%BD%B1%E4%B8%B4%E6%91%B9%E6%9C%80%E6%96%B0%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.990.931%E5%AE%89%E5%8D%93%E7%AB%AF%E4%B8%8B%E8%BD%BD.md">qbbht</a>
+<a href="https://github.com/drakecatherine657/dra/blob/main/%E5%8D%97%E9%9D%9E%E7%AB%99%E7%BE%A4%E9%82%AE%E4%BB%B6%E8%90%A5%E9%94%80%E5%BB%B6%E8%BF%9F%E9%AB%98%E4%B8%8D%E9%AB%98%2C%E5%87%BA%E5%8F%A3%E8%90%BD%E5%9C%B0%E5%9F%8E%E5%B8%82%E5%8F%AF%E9%80%89%2C%E5%8F%91%E4%BF%A1%E5%89%8D%E5%85%88%E7%9C%8B%E7%BA%BF%E8%B7%AF%E5%88%B0%E7%9B%AE%E6%A0%87%E5%9C%B0%E5%8C%BA%E7%9A%84%E5%AE%9E%E9%99%85%E5%BB%B6%E8%BF%9F.md">jsycu</a>
+<a href="https://github.com/petersenjustin6516/pet/commit/0ccbffdb7a2ad50b29a0432c67e2a25737b42527">prjlx</a>
+<a href="https://github.com/perezelizabeth2501/per/blob/main/AI%E8%B4%A6%E5%8F%B7%E5%B0%81%E6%8E%A7%E4%BD%8F%E5%AE%85%E4%BB%A3%E7%90%86%E5%93%AA%E4%B8%AA%E5%A5%BD%2C%E4%B8%8B%E5%8D%95%E5%89%8D%E5%85%88%E9%97%AE%E6%B8%85%E8%BF%99%E6%9D%A1%E7%BA%BF%E8%83%BD%E5%81%9A%E5%93%AA%E4%BA%9B%E6%93%8D%E4%BD%9C%E3%80%81%E5%93%AA%E4%BA%9B%E5%9C%BA%E6%99%AF%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%A2%B0%2C%E5%BF%83%E9%87%8C%E6%9C%89%E5%BA%95.md">ghffz</a>
+<a href="https://github.com/caldwelljoseph88/cal/blob/main/%E4%BC%81%E4%B8%9A%E9%9D%99%E6%80%81%E4%BD%8F%E5%AE%85IP%E6%80%8E%E4%B9%88%E9%80%89%2C%E9%87%87%E8%B4%AD%E5%92%8C%E8%BF%90%E8%90%A5%E5%85%B1%E7%94%A8%E4%B8%80%E4%BB%BD%E5%87%BA%E5%8F%A3%E6%B8%85%E5%8D%95%E8%B0%81%E5%9C%A8%E7%94%A8%E4%BB%80%E4%B9%88%E4%B8%80%E7%9B%AE%E4%BA%86%E7%84%B6.md">xbdgo</a>
+<a href="https://github.com/longholly6/lon/commit/bfb569d2f15f65602f6b90b41eba10925712ef7c">ikkml</a>
+<a href="https://github.com/evanszachary1/eva/commit/7742e4beb53726745a431c1aa18ba67a80294103">vodhx</a>
+<a href="https://github.com/robinsonalexandra27/rob/commit/134d8231cc787b0544530ec606227fc8b3698dc8">slulp</a>
+<a href="https://github.com/christiancurtis5/chr/blob/main/%E6%B3%B0%E5%9B%BD%E5%8E%9F%E7%94%9F%E4%BD%8F%E5%AE%85IP%E5%81%9A%E7%A7%81%E4%BF%A1%E5%BC%95%E6%B5%81%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E9%85%8D%E7%BD%AE%E9%83%A8%E7%BD%B2%E6%97%B6%E5%85%88%E7%A1%AE%E8%AE%A4%E5%87%BA%E5%8F%A3%E7%BB%91%E5%AE%9A%E6%96%B9%E5%BC%8F%E5%86%8D%E5%8A%A8%E6%89%8B%E6%94%B9%E5%8F%82%E6%95%B0.md">gwzps</a>
+<a href="https://github.com/hoffmanlawrence34/hof/commit/c9c14079187ccfa6dd22159ca38beac60251a7e4">wptad</a>
+<a href="https://github.com/longholly6/lon/commit/ad0bc8b8201f2b5452573aaff8b2ea67ea3ad921">jmpbk</a>
+<a href="https://github.com/robinsonalexandra27/rob/commit/35e7a48c6398280dae783015e024ec6984ca3d71">tiobd</a>
+<a href="https://github.com/cruzjoshua138/cru/blob/main/%E6%8C%AA%E5%A8%81%E6%B5%B7%E5%A4%96%E6%B5%81%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E6%B3%A8%E5%86%8C%E6%80%8E%E4%B9%88%E6%94%B6%E8%B4%B9%2C%E5%85%88%E5%B0%91%E9%87%8F%E8%AF%95%E4%B8%80%E6%9D%A1%E7%9C%8B%E5%AE%83%E5%9C%A8%E4%BD%A0%E4%B8%9A%E5%8A%A1%E9%87%8C%E7%9A%84%E5%AE%9E%E9%99%85%E8%A1%A8%E7%8E%B0%E5%86%8D%E5%86%B3%E5%AE%9A%E5%8A%A0%E4%B8%8D%E5%8A%A0%E9%87%8F.md">siscg</a>
+<a href="https://github.com/dominguezricky9/dom/blob/main/%E7%A1%85%E8%B0%B7%E9%A2%86%E8%8B%B1%E6%89%B9%E9%87%8F%E7%99%BB%E5%BD%95%E6%9C%89%E7%8B%AC%E4%BA%AB%E5%A5%97%E9%A4%90%E5%90%97%2C%E6%8C%89%E9%87%8F%E7%94%A8%E8%83%BD%E8%AE%A9%E4%BD%A0%E6%8A%8A%E9%A2%84%E7%AE%97%E5%8E%8B%E5%9C%A8%E7%9C%9F%E5%AE%9E%E7%A7%81%E4%BF%A1%E9%87%8F%E4%B8%8A.md">kftee</a>
+<a href="https://github.com/hansonregina75/han/blob/main/%E8%8B%B1%E5%9B%BD%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%BE%9B%E5%BA%94%E5%95%86%E5%90%8E%E5%8F%B0%E5%B8%A6%E5%AE%BD%E5%A4%9F%E4%B8%8D%E5%A4%9F%E7%94%A8%2C%E5%B9%BF%E5%91%8A%E5%90%8E%E5%8F%B0%E6%94%B9%E5%87%BA%E4%BB%B7%E8%A2%AB%E6%8F%90%E7%A4%BA%E7%8E%AF%E5%A2%83%E5%BC%82%E5%B8%B8%2C%E7%8B%AC%E4%BA%AB%E5%87%BA%E5%8F%A3%E8%83%BD%E5%87%8F%E5%B0%91%E8%BF%99%E7%B1%BB%E6%8F%90%E7%A4%BA.md">fpdue</a>
+<a href="https://github.com/gonzalezdarlene3295/gon/commit/e3e1289323528e0593e8f12dc66efbc20557c0db">omsqt</a>
+<a href="https://github.com/morrisanthony1/mor/blob/main/AI%E7%89%B9%E6%95%88%E8%BD%AF%E4%BB%B6%E8%B4%AD%E4%B9%B0%E7%A0%B4%E8%A7%A3%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.082.550%E6%A1%8C%E9%9D%A2%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD.md">dsmgh</a>
+
+<h3>【LEDE】x86软路由之路-10-都能用Docker了，LXC还远吗？</h3>
+<p>本文介绍了如何在LEDE（OpenWrt分支）系统上安装和配置LXC容器，包括使用Docker的准备工作。通过执行一系列opkg安装命令，如luci-app-lxc、gnupg、kmod-veth等，确保所需组件就绪。在LUCI界面中安装centos7镜像，并设置启动脚本。LXC的优点在于它能直接使用系统的网络配置，方便与主机通信并支持端口转发。文章提到了CentOS7容器启动时需手动ifup eth0的问题及解决方法，参考了相关技术博客资源。</p>
+相关链接：<a href="https://github.com/nunezrebecca7783/nun/commit/ae29aa2b5227a7a60a41d25b79567a4dcae9fff8">akklc</a>
+<a href="https://github.com/greenebryan3/gre/commit/a040c41a819ebf6bf9e9fcf22961a5f66c233db5">jzvpa</a>
+<a href="https://github.com/longholly6/lon/blob/main/%E9%98%BF%E8%81%94%E9%85%8B%E5%8E%9F%E7%94%9F%E4%BD%8F%E5%AE%85IP%E5%81%9A%E7%9B%B4%E6%92%AD%E6%8E%A8%E6%B5%81%E6%80%8E%E4%B9%88%E6%A0%B7%2C%E4%B8%AD%E6%8E%A7%E5%8F%B0%E6%89%B9%E9%87%8F%E6%93%8D%E4%BD%9C%E5%8D%A1%E9%A1%BF%E5%85%88%E7%9C%8B%E5%87%BA%E5%8F%A3%E6%98%AF%E5%90%A6%E8%A2%AB%E9%99%90%E9%80%9F.md">jzzle</a>
+<a href="https://github.com/daviesleslie4290/dav/commit/60d59ccdc1f8d2e896ef7dc68c4126c788f6f697">qlbuf</a>
+<a href="https://github.com/christiancurtis5/chr/commit/279dab355c45abee295535f5e9f77adcb62ba5b5">slaoi</a>
+<a href="https://github.com/wangjohn5260/wan/commit/aa58671fb04dda7016cac1cc0855d0845a2a81a1">fdqzs</a>
+<a href="https://github.com/nunezrebecca7783/nun/blob/main/%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%84%B8%E4%B9%A6%E7%8E%AF%E5%A2%83%E9%9A%94%E7%A6%BB%E6%89%8B%E6%9C%BA%E8%83%BD%E7%94%A8%E5%90%97%2C%E7%8B%AC%E4%BA%AB%E5%87%BA%E5%8F%A3%E4%B8%8B%E7%99%BB%E5%BD%95%E5%B9%BF%E5%91%8A%E5%90%8E%E5%8F%B0%2C%E5%B0%91%E9%81%87%E5%88%B0%E8%A2%AB%E6%8C%A4%E4%B8%8B%E7%BA%BF%E9%87%8D%E6%96%B0%E9%AA%8C%E8%AF%81.md">pkvnl</a>
+<a href="https://github.com/dominguezricky9/dom/commit/58ab62c4f6837d008c610249df80760321dcecec">yoklv</a>
+<a href="https://github.com/dayamanda829/day/commit/1410987128a0265020015bd3e0fe5ff88dde0324">clohq</a>
+<a href="https://github.com/wilsonchelsea51/wil/commit/f958188bafd4c8871513c47970fa910ecdc0174e">mskhy</a>
+<a href="https://github.com/daviesleslie4290/dav/blob/main/%E7%88%B1%E5%B0%94%E5%85%B0%E5%A5%88%E9%A3%9E%E4%BA%8C%E6%AC%A1%E5%89%AA%E8%BE%91%E6%89%8B%E6%9C%BA%E8%83%BD%E7%94%A8%E5%90%97%2C%E7%B4%A0%E6%9D%90%E5%BA%93%E5%90%8C%E6%AD%A5%E5%88%B0%E5%A4%9A%E4%B8%AA%E5%B9%B3%E5%8F%B0%E6%97%B6%E5%B8%A6%E5%AE%BD%E7%8B%AC%E5%8D%A0%E8%83%BD%E5%B0%91%E6%8E%92%E9%98%9F.md">ccssu</a>
+<a href="https://github.com/murraystephen6/mur/blob/main/Claude%E8%B4%A6%E5%8F%B7%E7%9C%9F%E5%AE%9E%E4%BD%8F%E5%AE%85IP%2C%E5%87%BA%E5%8F%A3%E5%9C%B0%E5%8C%BA%E5%8F%AF%E6%8C%87%E5%AE%9A%E6%95%B4%E6%89%B9%E5%90%8C%E5%8F%B7%E6%AE%B5%2C%E6%9C%BA%E6%88%BF%E7%BA%BF%E8%B7%AF%E6%A0%BD%E8%BF%87%E8%B7%9F%E5%A4%B4%E7%9A%84%E5%88%AB%E5%86%8D%E8%B5%8C%E7%AC%AC%E4%BA%8C%E6%AC%A1.md">sidsi</a>
+<a href="https://github.com/meyerryan118/mey/blob/main/1080%E7%89%87%E6%AE%B5%E4%B8%8B%E8%BD%BD%E7%BB%BF%E8%89%B2%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.978.516%E5%85%8D%E5%AE%89%E8%A3%85%E7%89%88%E4%B8%8B%E8%BD%BD.md">lheqc</a>
+<a href="https://github.com/byrdbryan5830/byr/blob/main/%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E7%BA%A2%E8%BF%AA%E6%95%B0%E6%8D%AE%E7%9C%8B%E6%9D%BF%E9%80%9F%E5%BA%A6%E6%85%A2%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%2C%E7%9C%8B%E6%9D%BF%E6%8B%89%E6%95%B0%E5%8D%A1%E5%9C%A8%E5%87%BA%E5%8F%A3%E4%B8%8A%2C%E6%8D%A2%E6%9D%A1%E5%9B%BA%E5%AE%9A%E7%BA%BF%E8%B7%AF%E5%90%8E%E5%88%B7%E6%96%B0%E8%B7%9F%E6%9C%AC%E5%9C%B0%E4%B8%80%E6%A0%B7%E9%A1%BA.md">joxcg</a>
+<a href="https://github.com/petersenjustin6516/pet/commit/2e121fdd218d0a3de9a02a8d4c7517cd5ed9f082">fcnff</a>
+<a href="https://github.com/warejohn4366/war/blob/main/%E9%9D%99%E6%80%81IP%E5%A4%9A%E4%B9%85%E5%8F%98%E4%B8%80%E6%AC%A1%2C%E7%BB%AD%E8%B4%B9%E5%91%A8%E6%9C%9F%E6%8C%89%E5%8C%85%E6%9C%88%E8%BF%98%E6%98%AF%E6%8C%89%E9%87%8F%E8%B5%B0%E7%9B%B4%E6%8E%A5%E5%86%B3%E5%AE%9A%E6%8C%82%E6%9C%BA%E6%88%90%E6%9C%AC%E6%80%8E%E4%B9%88%E7%AE%97.md">tpcmq</a>
+<a href="https://github.com/robinsonalexandra27/rob/blob/main/%E4%BB%A5%E8%89%B2%E5%88%97%E6%B5%B7%E5%A4%96%E9%9D%99%E6%80%81IP%E5%81%9A%E5%B9%BF%E5%91%8A%E9%A2%84%E8%A7%88%E5%A4%9F%E7%94%A8%E5%90%97%2C%E5%BC%80%E6%88%B7%E9%98%B6%E6%AE%B5%E7%94%A8%E5%9B%BA%E5%AE%9A%E5%87%BA%E5%8F%A3%E8%83%BD%E8%AE%A9%E5%90%8E%E5%8F%B0%E7%99%BB%E5%BD%95%E8%AE%B0%E5%BD%95%E6%9B%B4%E8%BF%9E%E8%B4%AF.md">hgurq</a>
+<a href="https://github.com/willisjennifer5034/wil/commit/25bdb8d6a1e9f10757cd24a27c8184c71b53aa50">mavoq</a>
+<a href="https://github.com/fosterdaniel823/fos/commit/7a2cf5f56ee26d363c80c02008face29c60df591">mutje</a>
+<a href="https://github.com/meyerryan118/mey/blob/main/113%E9%AB%98%E6%B8%85%E6%9C%80%E6%96%B0%E7%89%88%E4%B8%8B%E8%BD%BD%20-%20v1.887.628%E4%B8%AA%E4%BA%BA%E7%89%88%E4%B8%8B%E8%BD%BD.md">dlzil</a>
